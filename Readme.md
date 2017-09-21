@@ -1,4 +1,4 @@
-# Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный проект «Мишка»
 
 * Студент: [Евгений Маевский](https://htmlacademy.ru/profile/id476107).
 * Наставник: `Неизвестно`.
